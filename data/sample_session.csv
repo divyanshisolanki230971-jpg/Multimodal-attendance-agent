@@ -1,0 +1,6 @@
+participant,presence_seconds,status
+Participant 01,1680,Present
+Participant 02,1540,Present
+Participant 03,1320,Present
+Participant 04,890,Present
+Participant 05,180,Below threshold
